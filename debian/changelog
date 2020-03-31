@@ -1,3 +1,10 @@
+lmdb (0.9.24-1ubuntu0.1ppa1~bionic) bionic; urgency=medium
+
+  * Backport to Ubuntu 18.04 LTS
+  * Use fsync instead of fdatasync
+
+ -- Hiroaki Nakamura <hnakamur@gmail.com>  Tue, 31 Mar 2020 20:15:49 +0900
+
 lmdb (0.9.24-1) unstable; urgency=medium
 
   [ Ondřej Nový ]
